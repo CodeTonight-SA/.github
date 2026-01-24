@@ -1,4 +1,4 @@
-<br>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeTonight-SA/.github/main/assets/enter-konsult-wordmark-dark.svg">
@@ -10,11 +10,11 @@
 <br>
 
 <p align="center">
-  <strong>Software that stays out of the way.</strong>
+  <strong>Technology that works for you.</strong>
 </p>
 
 <p align="center">
-  <sub>Cape Town · Dubai</sub>
+  <sub>Cape Town · Dubai · <strong>ACCEPTING CLIENTS</strong></sub>
 </p>
 
 <br>
@@ -32,6 +32,21 @@
 
 <br>
 
+### What We Do
+
+| | | |
+|:---:|:---:|:---:|
+| **EMBEDDED** | **ORCHESTRATED** | **ONGOING** |
+| Join your team as fractional CTO | Coordinate vendors and systems | Maintain and evolve your stack |
+
+<br>
+
+---
+
+<br>
+
+### Open Source
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -40,13 +55,15 @@
 
 Claude Instance Preservation System
 
-Session continuity. 60-70k tokens saved.
+Session continuity. 60-70k tokens saved per session.
 
 57 skills. 29 agents. 40 commands.
 
-```
+```bash
 git clone https://github.com/CodeTonight-SA/cips ~/.claude
 ```
+
+<sub><code>ROLE: CREATOR</code> · <code>TECH: Python, Shell, CIPS-LANG</code> · <code>STATUS: PUBLIC</code></sub>
 
 [→ Repository](https://github.com/CodeTonight-SA/cips)
 
@@ -61,9 +78,12 @@ Gmail. Calendar. Drive. Tasks.
 
 Local-only. Zero telemetry.
 
+```bash
+git clone https://github.com/CodeTonight-SA/google-vibe-os.git
+cd google-vibe-os && npm install && npm start
 ```
-brew tap CodeTonight-SA/cips && brew install googol-vibe
-```
+
+<sub><code>ROLE: CREATOR</code> · <code>TECH: Electron, React, Python</code> · <code>STATUS: BETA</code></sub>
 
 [→ Repository](https://github.com/CodeTonight-SA/google-vibe-os)
 
@@ -77,22 +97,86 @@ brew tap CodeTonight-SA/cips && brew install googol-vibe
 
 <br>
 
+### Client Work
+
 <table>
 <tr>
-<td align="center" width="25%"><sub>REDR</sub><br><sub>PropTech · Dubai</sub></td>
-<td align="center" width="25%"><sub>Oculus Tech</sub><br><sub>ConTech · UAE</sub></td>
-<td align="center" width="25%"><sub>Skeg</sub><br><sub>Computer Vision</sub></td>
-<td align="center" width="25%"><sub>VerifiedTalent</sub><br><sub>HR Tech</sub></td>
+<td width="25%" valign="top">
+
+**REDR**
+
+PropTech platform
+
+<sub><code>ROLE: CTO</code> · <code>TECH: React, Node, AWS</code> · <code>REGION: Dubai</code></sub>
+
+</td>
+<td width="25%" valign="top">
+
+**Oculus Tech**
+
+Construction technology
+
+<sub><code>ROLE: ADVISOR</code> · <code>TECH: Full-stack</code> · <code>REGION: UAE</code></sub>
+
+</td>
+<td width="25%" valign="top">
+
+**Skeg**
+
+Computer vision platform
+
+<sub><code>ROLE: ADVISOR</code> · <code>TECH: Python, CV</code> · <code>REGION: SA</code></sub>
+
+</td>
+<td width="25%" valign="top">
+
+**VerifiedTalent**
+
+HR technology
+
+<sub><code>ROLE: ADVISOR</code> · <code>TECH: Full-stack</code> · <code>REGION: SA</code></sub>
+
+</td>
 </tr>
 </table>
 
 <br>
 
+---
+
+<br>
+
+### Pro Bono
+
 <table>
 <tr>
-<td align="center" width="33%"><a href="https://kwartel.io">Kwartel</a><br><sub>Afrikaans word game · 3+ years</sub></td>
-<td align="center" width="33%"><a href="https://soekit.ai">Soekit™</a><br><sub>Afrikaans AI</sub></td>
-<td align="center" width="33%"><a href="https://aitsa.ai">aitsa!</a><br><sub>Indigenous language AI</sub></td>
+<td align="center" width="33%">
+
+[**Kwartel**](https://kwartel.io)
+
+Afrikaans word game
+
+<sub><code>3+ years</code> · <code>10k+ players</code></sub>
+
+</td>
+<td align="center" width="33%">
+
+[**Soekit**](https://soekit.ai)
+
+Afrikaans AI search
+
+<sub><code>Language preservation</code></sub>
+
+</td>
+<td align="center" width="33%">
+
+[**aitsa!**](https://aitsa.ai)
+
+Indigenous language AI
+
+<sub><code>11 SA languages</code></sub>
+
+</td>
 </tr>
 </table>
 
