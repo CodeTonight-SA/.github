@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <sub>Cape Town · Dubai · <strong>ACCEPTING CLIENTS</strong></sub>
+  <sub>Cape Town · <strong>ACCEPTING CLIENTS</strong></sub>
 </p>
 
 <br>
@@ -107,7 +107,7 @@ cd google-vibe-os && npm install && npm start
 
 PropTech platform
 
-<sub><code>ROLE: CTO</code> · <code>TECH: React, Node, AWS</code> · <code>REGION: Dubai</code></sub>
+<sub><code>ROLE: CTO</code> · <code>TECH: React, Node, AWS</code></sub>
 
 </td>
 <td width="25%" valign="top">
@@ -116,7 +116,7 @@ PropTech platform
 
 Construction technology
 
-<sub><code>ROLE: ADVISOR</code> · <code>TECH: Full-stack</code> · <code>REGION: UAE</code></sub>
+<sub><code>ROLE: ADVISOR</code> · <code>TECH: Full-stack</code></sub>
 
 </td>
 <td width="25%" valign="top">
@@ -125,7 +125,7 @@ Construction technology
 
 Computer vision platform
 
-<sub><code>ROLE: ADVISOR</code> · <code>TECH: Python, CV</code> · <code>REGION: SA</code></sub>
+<sub><code>ROLE: ADVISOR</code> · <code>TECH: Python, CV</code></sub>
 
 </td>
 <td width="25%" valign="top">
@@ -134,7 +134,7 @@ Computer vision platform
 
 HR technology
 
-<sub><code>ROLE: ADVISOR</code> · <code>TECH: Full-stack</code> · <code>REGION: SA</code></sub>
+<sub><code>ROLE: ADVISOR</code> · <code>TECH: Full-stack</code></sub>
 
 </td>
 </tr>
