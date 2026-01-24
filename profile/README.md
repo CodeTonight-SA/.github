@@ -10,10 +10,23 @@
 <br>
 
 <p align="center">
-  <em>Software that stays out of the way.</em>
+  <strong>Software that stays out of the way.</strong>
+</p>
+
+<p align="center">
+  <sub>Cape Town · Dubai</sub>
 </p>
 
 <br>
+
+---
+
+```
+01  We will not build what should not exist
+02  We transform complexity — KISS is paramount
+03  We enforce strict quality control
+04  We do what is RIGHT
+```
 
 ---
 
@@ -23,35 +36,36 @@
 <tr>
 <td width="50%" valign="top">
 
-### CIPS
+**CIPS**
 
 Claude Instance Preservation System
 
-Session continuity for Claude Code. Your context survives restarts.
+Session continuity. 60-70k tokens saved.
 
-60-70k tokens saved per session.
+57 skills. 29 agents. 40 commands.
 
 ```
-brew tap CodeTonight-SA/cips
-brew install cips
+git clone https://github.com/CodeTonight-SA/cips ~/.claude
 ```
 
-[Repository](https://github.com/CodeTonight-SA/cips)
+[→ Repository](https://github.com/CodeTonight-SA/cips)
 
 </td>
 <td width="50%" valign="top">
 
-### Googol Vibe
+**Googol Vibe**
 
-Unified Google Workspace
+Google Workspace, unified.
 
 Gmail. Calendar. Drive. Tasks.
 
-One interface. Zero friction.
+Local-only. Zero telemetry.
 
-<br>
+```
+brew tap CodeTonight-SA/cips && brew install googol-vibe
+```
 
-[Repository](https://github.com/CodeTonight-SA/google-vibe-os)
+[→ Repository](https://github.com/CodeTonight-SA/google-vibe-os)
 
 </td>
 </tr>
@@ -63,10 +77,37 @@ One interface. Zero friction.
 
 <br>
 
+<table>
+<tr>
+<td align="center" width="25%"><sub>REDR</sub><br><sub>PropTech · Dubai</sub></td>
+<td align="center" width="25%"><sub>Oculus Tech</sub><br><sub>ConTech · UAE</sub></td>
+<td align="center" width="25%"><sub>Skeg</sub><br><sub>Computer Vision</sub></td>
+<td align="center" width="25%"><sub>VerifiedTalent</sub><br><sub>HR Tech</sub></td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%"><a href="https://kwartel.io">Kwartel</a><br><sub>Afrikaans word game · 3+ years</sub></td>
+<td align="center" width="33%"><a href="https://soekit.ai">Soekit™</a><br><sub>Afrikaans AI</sub></td>
+<td align="center" width="33%"><a href="https://aitsa.ai">aitsa!</a><br><sub>Indigenous language AI</sub></td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
 <p align="center">
   <sub>
-    Cape Town, South Africa
-    <br>
+    Est. 2023 · 30+ years combined experience
+    <br><br>
+    <em>facta non verba</em>
+    <br><br>
     <a href="https://enterkonsult.com">enterkonsult.com</a>
   </sub>
 </p>
