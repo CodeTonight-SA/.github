@@ -1,12 +1,3 @@
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeTonight-SA/.github/main/assets/enter-konsult-wordmark-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeTonight-SA/.github/main/assets/enter-konsult-wordmark-light.svg">
-    <img alt="ENTER Konsult" src="https://raw.githubusercontent.com/CodeTonight-SA/.github/main/assets/enter-konsult-wordmark-light.svg" width="320">
-  </picture>
-</p>
-
 <br>
 
 <p align="center">
