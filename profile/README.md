@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-  <strong>Technology that works for you.</strong>
+  Technology that works <b>for</b> you. Not <i>against</i> you.
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-```
+```text
 01  We will not build what should not exist
 02  We transform complexity — KISS is paramount
 03  We enforce strict quality control
@@ -36,27 +36,32 @@
 
 <br>
 
-### Open Source
+### IP
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**CIPS**
+**GRIP & HAL**
 
-Claude Instance Preservation System
+<b>G</b>eneral Reasoning & Intelligence Platform<br>
+<b>G</b>uarded Response Interception Protocol<br>
+<b>G</b>enerative Recursive Improvement Pipeline<br>
+<small><i>Yes, we love recursive backronyms.</i></small>
 
-Session continuity. 60-70k tokens saved per session.
+The ultimate agentic substrate. Powered by **HAL** (Harness Abstraction Layer), our zero-limit,
+LLM-agnostic runtime. GRIP brings cross-model Mixture of Experts, autonomous self-improvement,
+and deterministic safety to Claude Code, Codex, and the Antigravity CLI. 
 
-57 skills. 29 agents. 40 commands.
+AI safety achieved through *mechanisms*, not values.
 
 ```bash
-git clone https://github.com/CodeTonight-SA/cips ~/.claude
+git clone https://github.com/CodeTonight-SA/GRIP ~/.claude
 ```
 
-<sub><code>ROLE: CREATOR</code> · <code>TECH: Python, Shell, CIPS-LANG</code> · <code>STATUS: PUBLIC</code></sub>
+<sub><code>ROLE: CREATOR</code> · <code>TECH: Python, Agentic CLI, HAL</code> · <code>STATUS: PUBLIC</code></sub>
 
-[→ Repository](https://github.com/CodeTonight-SA/cips)
+[→ Repository](https://github.com/CodeTonight-SA/GRIP)
 
 </td>
 <td width="50%" valign="top">
@@ -67,7 +72,7 @@ Google Workspace, unified.
 
 Gmail. Calendar. Drive. Tasks.
 
-Local-only. Zero telemetry.
+Local-only. Zero telemetry. Absolute focus.
 
 ```bash
 git clone https://github.com/CodeTonight-SA/google-vibe-os.git
@@ -90,18 +95,18 @@ cd google-vibe-os && npm install && npm start
 
 ### Client Work
 
-<table>
+<table width="100%">
 <tr>
-<td width="25%" valign="top">
+<td width="33%" valign="top">
 
-**REDR**
+**REDR (coming soon)**
 
 PropTech platform
 
-<sub><code>ROLE: CTO</code> · <code>TECH: React, Node, AWS</code></sub>
+<sub><code>ROLE: PLATFORM BUILD, VENTURE CONSULTANCY</code> · <code>TECH: FULL-FULL-STACK</code></sub>
 
 </td>
-<td width="25%" valign="top">
+<td width="33%" valign="top">
 
 **Oculus Tech**
 
@@ -110,22 +115,13 @@ Construction technology
 <sub><code>ROLE: ADVISOR</code> · <code>TECH: Full-stack</code></sub>
 
 </td>
-<td width="25%" valign="top">
-
-**Skeg**
-
-Computer vision platform
-
-<sub><code>ROLE: ADVISOR</code> · <code>TECH: Python, CV</code></sub>
-
-</td>
-<td width="25%" valign="top">
+<td width="33%" valign="top">
 
 **VerifiedTalent**
 
 HR technology
 
-<sub><code>ROLE: ADVISOR</code> · <code>TECH: Full-stack</code></sub>
+<sub><code>ROLE: PRIVATE CONSULTANT 🥷</code> · <code>TECH: FDE</code></sub>
 
 </td>
 </tr>
@@ -139,33 +135,15 @@ HR technology
 
 ### Pro Bono
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="100%">
 
 [**Kwartel**](https://kwartel.io)
 
 Afrikaans word game
 
 <sub><code>3+ years</code> · <code>10k+ players</code></sub>
-
-</td>
-<td align="center" width="33%">
-
-[**Soekit**](https://soekit.ai)
-
-Afrikaans AI search
-
-<sub><code>Language preservation</code></sub>
-
-</td>
-<td align="center" width="33%">
-
-[**aitsa!**](https://aitsa.ai)
-
-Indigenous language AI
-
-<sub><code>11 SA languages</code></sub>
 
 </td>
 </tr>
@@ -182,9 +160,16 @@ Indigenous language AI
     Est. 2023 · 30+ years combined experience
     <br><br>
     <em>facta non verba</em>
-    <br><br>
-    <a href="https://enterkonsult.com">enterkonsult.com</a>
   </sub>
+</p>
+
+<p align="center">
+  For more details, visit <a href="https://codetonight-sa.github.io/">the GitHub Pages link</a> or <a href="https://enterkonsult.com">the WIP (ever-changing) main website</a>.
+</p>
+
+<p align="center">
+  <strong>CodeTonight (Pty) Ltd. T/A ENTER Konsult.</strong><br>
+  <small><i>first a solo venture, now raising to expand because TEAMWORK IS DREAMWORK ❤️</i></small>
 </p>
 
 <br>
