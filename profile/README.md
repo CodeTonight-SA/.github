@@ -2,7 +2,7 @@
 
 # CodeTonight
 
-### Technology that works for you. Not against you.
+### Technology that works with you, for you -- honest, humble work throughout a hard day's night
 
 **Sovereign, provable AI.** We build the machinery that lets a business trust its
 own AI decisions — without trusting the model, the cloud, or even us. Every
