@@ -2,7 +2,7 @@
 
 # CodeTonight
 
-### Technology that works with you, for you -- honest, humble work throughout a hard day's night
+### Technology that works for you. Not against you.
 
 **Sovereign, provable AI.** We build the machinery that lets a business trust its
 own AI decisions — without trusting the model, the cloud, or even us. Every
@@ -76,10 +76,10 @@ proof chain from protocol to product.
 | [`grip-decision-chain`](https://github.com/CodeTonight-SA/grip-decision-chain) | Signed, chained Intent Decision Records — tamper-evident by construction |
 | [`grip-rsi-witness`](https://github.com/CodeTonight-SA/grip-rsi-witness) | Live public ledger of self-improvement cycles, replayable |
 
-**Substrate** — the syscall layer underneath any model or harness
+**Substrate** — **HAPPI**, the open protocol (*"AI is a syscall"*), and HAL, its multi-provider runtime
 | Repo | What it is |
 |---|---|
-| [`hal-go`](https://github.com/CodeTonight-SA/hal-go) · [`hal-py`](https://github.com/CodeTonight-SA/hal-py) · [`hal-js`](https://github.com/CodeTonight-SA/hal-js) | HAPPI/1.0 implementations — route any LLM, on any harness, air-gapped if you need it |
+| [`hal-go`](https://github.com/CodeTonight-SA/hal-go) · [`hal-py`](https://github.com/CodeTonight-SA/hal-py) · [`hal-js`](https://github.com/CodeTonight-SA/hal-js) | **HAPPI** implementations — one message in, one stream out; route any LLM, on any harness, air-gapped if you need it |
 | [`hal-conformance`](https://github.com/CodeTonight-SA/hal-conformance) | The open certification suite — machines certify against the spec, not against us |
 
 **Craft** — tools that keep the work honest and sharp
@@ -98,15 +98,15 @@ proof chain from protocol to product.
 | [`ccflex-skibidi`](https://github.com/CodeTonight-SA/ccflex-skibidi) | Claude Code `/stats`, rendered live in WebGL |
 
 <details>
-<summary><strong>Why "GRIP" and "HAL"?</strong></summary>
+<summary><strong>The IP suite — GRIP · HAL · HAPPI · GRASP</strong></summary>
 <br>
 
-**GRIP** — Guarded Response Interception Protocol. A General Reasoning and Intelligence Platform.<br>
-**HAL** — The Liskov-approved Harness Abstraction Layer. A multi-provider
-AI substrate that routes inferences underneath it.
-
-Neither name is an accident; both are
-self-explanatory bacronyms for what the systems actually do.
+- **HAPPI** — the open protocol. *AI is a syscall.* One file that is documentation, a
+  program, and a specification at once — the very same words, at once. Harness-agnostic,
+  LLM-agnostic, polyglot: one sheet, five parsers. The contract everything else speaks.
+- **HAL** — the multi-provider AI substrate that routes any model underneath the protocol.
+- **GRIP** — Guarded Response Interception Protocol: the critical-thinking, self-improving engine.
+- **GRASP** — the open reference implementation of cryptographic causation: public provability.
 
 </details>
 
@@ -119,8 +119,8 @@ the ones that failed.
 
 **Open it → [codetonight-sa.github.io/grip-rsi-witness](https://codetonight-sa.github.io/grip-rsi-witness/)**
 
-No competitor's org profile publishes a losing hypothesis. Ours does, because a ledger
-that never shows a refutation isn't a ledger — it's marketing.
+Most profiles show only their wins. Ours shows the refutations too — because a ledger
+that never records a losing hypothesis isn't a ledger, it's marketing.
 
 ## Verify us
 
@@ -136,6 +136,6 @@ If a record doesn't verify against the public chain, don't work with us.
 
 <div align="center">
 
-Facta, non Verba. Cape Town 🇿🇦. Mzanzi.
+Cape Town.
 
 </div>
