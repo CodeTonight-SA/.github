@@ -2,7 +2,7 @@
 
 # CodeTonight
 
-### Technology that works with you, for you -- honest, humble work throughout a hard day's night
+### Technology that works for you. Not against you.
 
 **Sovereign, provable AI.** We build the machinery that lets a business trust its
 own AI decisions — without trusting the model, the cloud, or even us. Every
@@ -119,8 +119,8 @@ the ones that failed.
 
 **Open it → [codetonight-sa.github.io/grip-rsi-witness](https://codetonight-sa.github.io/grip-rsi-witness/)**
 
-No competitor's org profile publishes a losing hypothesis. Ours does, because a ledger
-that never shows a refutation isn't a ledger — it's marketing.
+Most profiles show only their wins. Ours shows the refutations too — because a ledger
+that never records a losing hypothesis isn't a ledger, it's marketing.
 
 ## Verify us
 
