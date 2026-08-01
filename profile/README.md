@@ -101,9 +101,12 @@ proof chain from protocol to product.
 <summary><strong>Why "GRIP" and "HAL"?</strong></summary>
 <br>
 
-**GRIP** — Guarded Response Interception Protocol. **HAL** — the multi-provider
-AI substrate that routes underneath it. Neither name is an accident; both are
-load-bearing acronyms for what the systems actually do.
+**GRIP** — Guarded Response Interception Protocol. A General Reasoning and Intelligence Platform.<br>
+**HAL** — The Liskov-approved Harness Abstraction Layer. A multi-provider
+AI substrate that routes inferences underneath it.
+
+Neither name is an accident; both are
+self-explanatory bacronyms for what the systems actually do.
 
 </details>
 
@@ -133,6 +136,6 @@ If a record doesn't verify against the public chain, don't work with us.
 
 <div align="center">
 
-Cape Town.
+Facta, non Verba. Cape Town 🇿🇦. Mzanzi.
 
 </div>
