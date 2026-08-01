@@ -1,186 +1,138 @@
-<br>
-
 <div align="center">
-  
-<h1>CodeTonight</h1>
 
-<p>
-  <b>Technology that works <i>for</i> you. Not against you.</b>
-</p>
+# CodeTonight
 
-<p>
-  <sub>Cape Town · <strong>ACCEPTING CLIENTS</strong></sub>
-</p>
+### Technology that works with you, for you -- honest, humble work throughout a hard day's night
+
+**Sovereign, provable AI.** We build the machinery that lets a business trust its
+own AI decisions — without trusting the model, the cloud, or even us. Every
+decision signed, chained, and replayable by anyone.
+
+`Trust no model` · `Trust no vendor` · `Verify the math`
+
+[![HAPPI/1.0 conformance](https://img.shields.io/badge/HAPPI%2F1.0-conformant-2b6cb0)](https://github.com/CodeTonight-SA/hal-conformance)
+[![RSI witnessed](https://img.shields.io/badge/RSI-witnessed%20live-1a7f37)](https://codetonight-sa.github.io/grip-rsi-witness/)
+[![Decision chain](https://img.shields.io/badge/decision%20chain-verifiable-6f42c1)](https://codetonight-sa.github.io/grip-decision-chain/)
 
 </div>
 
-<br>
-
----
-
-<div align="center">
-  
-```text
-01  We will not build what should not exist
-02  We transform complexity — KISS is paramount
-03  We enforce strict quality control
-04  We do what is RIGHT
+```console
+$ grasp verify .
+✓ decision  signed   · ed25519
+✓ chain     intact   · merkle root recomputed
+✓ anchored  external · bitcoin block 956992
+  the proof is the product — check it yourself.
 ```
 
-</div>
-
 ---
 
-<br>
+> Enterprise open source sold you trust in a vendor. **We sell you the proof
+> you never need one.**
 
-### ⬢ The Operating Model
+## What we build
 
-| **EMBEDDED** | **ORCHESTRATED** | **ONGOING** |
-|:---:|:---:|:---:|
-| Join your team as fractional CTO | Coordinate vendors and systems | Maintain and evolve your stack |
+We build sovereign, provable AI: systems that record *what* an AI decided and
+*what it believed when* — as a signed, chained record any third party can
+verify without trusting the model, the vendor, or us. The reference
+implementation is **[GRASP](https://github.com/CodeTonight-SA/grasp)** —
+open, harness-agnostic, LLM-agnostic, and falsifiable by construction.
 
-<br>
+## How we work
 
----
-
-<br>
-
-### ⬢ Intellectual Property
-
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### GRIP & HAL
-
-**G**eneral Reasoning & Intelligence Platform<br>
-**G**uarded Response Interception Protocol<br>
-**G**enerative Recursive Improvement Pipeline<br>
-<small><i>Yes, we love backronyms.</i></small>
-
-The ultimate agentic substrate. Powered by **HAL** (Harness Abstraction Layer), our zero-limit,
-LLM-agnostic runtime. GRIP brings cross-model Mixture of Experts, autonomous self-improvement,
-and deterministic safety to Claude Code, Codex, and the Antigravity CLI. 
-
-*AI safety achieved through mechanisms, not values.*
-
-Reach out for an invite, then:
-```bash
-git clone https://github.com/CodeTonight-SA/GRIP ~/.claude
-```
-
-<sub><code>ROLE: CREATOR</code> · <code>TECH: Python, Agentic CLI, HAL, ITSELF, RSI, POLYMORPHISM 😉</code> · <code>STATUS: BY INVITATION</code></sub>
-
-[→ Repository](https://github.com/CodeTonight-SA/GRIP)
+### Embedded
+We sit inside your team, not beside it. Shipping code, not slide decks.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### Googol Vibe
+### Orchestrated
+Many models, one accountable process — a council of rivals, judged, on the
+record.
 
-Google Workspace, unified.
+</td>
+<td width="33%" valign="top">
 
-Gmail. Calendar. Drive. Tasks.<br>
-Local-only. Zero telemetry. Absolute focus.
-
-```bash
-git clone https://github.com/CodeTonight-SA/google-vibe-os.git
-cd google-vibe-os && npm install && npm start
-```
-
-<br><br><br>
-
-<sub><code>ROLE: CREATOR</code> · <code>TECH: Electron, React, Python</code> · <code>STATUS: BETA</code></sub>
-
-[→ Repository](https://github.com/CodeTonight-SA/google-vibe-os)
+### Ongoing
+The system keeps improving after we leave — signed, witnessed, and yours to
+audit.
 
 </td>
 </tr>
 </table>
 
+## The open shelf
+
+Four layers, one stack. Each repo does one job; together they are the whole
+proof chain from protocol to product.
+
+**Proof** — the record, sealed and checkable
+| Repo | What it is |
+|---|---|
+| [`grasp`](https://github.com/CodeTonight-SA/grasp) | The open reference implementation of cryptographic causation |
+| [`grip-decision-chain`](https://github.com/CodeTonight-SA/grip-decision-chain) | Signed, chained Intent Decision Records — tamper-evident by construction |
+| [`grip-rsi-witness`](https://github.com/CodeTonight-SA/grip-rsi-witness) | Live public ledger of self-improvement cycles, replayable |
+
+**Substrate** — the syscall layer underneath any model or harness
+| Repo | What it is |
+|---|---|
+| [`hal-go`](https://github.com/CodeTonight-SA/hal-go) · [`hal-py`](https://github.com/CodeTonight-SA/hal-py) · [`hal-js`](https://github.com/CodeTonight-SA/hal-js) | HAPPI/1.0 implementations — route any LLM, on any harness, air-gapped if you need it |
+| [`hal-conformance`](https://github.com/CodeTonight-SA/hal-conformance) | The open certification suite — machines certify against the spec, not against us |
+
+**Craft** — tools that keep the work honest and sharp
+| Repo | What it is |
+|---|---|
+| [`skill-forge`](https://github.com/CodeTonight-SA/skill-forge) | Sharpens agent skills instead of letting them atrophy |
+| [`claude-modes`](https://github.com/CodeTonight-SA/claude-modes) | Purposeful capability loading for Claude Code |
+| [`git-solve`](https://github.com/CodeTonight-SA/git-solve) | Squash-merge-aware branch reconciliation with a Banach fixed-point proof |
+| [`claude-handoff`](https://github.com/CodeTonight-SA/claude-handoff) | Apple-native, zero-service state handoff across harnesses |
+| [`prompt-cache-keepalive`](https://github.com/CodeTonight-SA/prompt-cache-keepalive) | Keeps prompt caches warm, keeps bills down |
+| [`grip-post`](https://github.com/CodeTonight-SA/grip-post) | An anti-fluff gate that refuses to write slop |
+
+**Delight** — because the moat should also be fun to look at
+| Repo | What it is |
+|---|---|
+| [`ccflex-skibidi`](https://github.com/CodeTonight-SA/ccflex-skibidi) | Claude Code `/stats`, rendered live in WebGL |
+
+<details>
+<summary><strong>Why "GRIP" and "HAL"?</strong></summary>
 <br>
+
+**GRIP** — Guarded Response Interception Protocol. **HAL** — the multi-provider
+AI substrate that routes underneath it. Neither name is an accident; both are
+load-bearing acronyms for what the systems actually do.
+
+</details>
+
+## Proof, not promises
+
+We don't ask you to believe GRASP improves itself — we publish it. The
+[`grip-rsi-witness`](https://codetonight-sa.github.io/grip-rsi-witness/) ledger is a
+**live public page**: every self-improvement cycle, signed and replayable — including
+the ones that failed.
+
+**Open it → [codetonight-sa.github.io/grip-rsi-witness](https://codetonight-sa.github.io/grip-rsi-witness/)**
+
+No competitor's org profile publishes a losing hypothesis. Ours does, because a ledger
+that never shows a refutation isn't a ledger — it's marketing.
+
+## Verify us
+
+Don't trust this README. **Verify it.** The witnesses are public and live — open them
+and check the latest sealed records against the chain yourself:
+
+- [codetonight-sa.github.io/grip-decision-chain](https://codetonight-sa.github.io/grip-decision-chain/) — the signed decision chain
+- [codetonight-sa.github.io/grip-rsi-witness](https://codetonight-sa.github.io/grip-rsi-witness/) — self-improvement, witnessed
+
+If a record doesn't verify against the public chain, don't work with us.
 
 ---
-
-<br>
-
-### ⬢ Client Operations
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-#### REDR 
-<small>*(coming soon)*</small><br>
-PropTech platform
-
-<sub><code>ROLE: PLATFORM BUILD, VENTURE CONSULTANCY</code><br><code>TECH: FULL-FULL-STACK</code></sub>
-
-</td>
-<td width="33%" valign="top">
-
-#### Oculus Tech
-
-Construction technology
-
-<sub><code>ROLE: PRIVATE 🥷</code>
-
-</td>
-<td width="33%" valign="top">
-
-#### VerifiedTalent
-
-HR technology
-
-<sub><code>ROLE: FDE - AGENTIC ENGINEER </code>
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<br>
-
-### ⬢ Pro Bono
-
-<table width="100%">
-<tr>
-<td align="center" width="100%">
-
-#### [Kwartel](https://kwartel.io)
-Afrikaans word game
-
-<sub><code>3+ years</code> · <code>100k+ players</code></sub>
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<br>
 
 <div align="center">
-  
-<sub>
-  Est. 2023 · 30+ years combined experience<br>
-  <em>facta non verba</em>
-</sub>
 
-<br><br>
-
-For more details, visit <a href="https://codetonight-sa.github.io/">the GitHub Pages link</a> or <a href="https://enterkonsult.com">the WIP (ever-changing) main website</a>.
-
-<br><br>
-
-<strong>CodeTonight (Pty) Ltd. T/A ENTER Konsult.</strong><br>
-<small><i>first a solo venture, now raising to expand because TEAMWORK IS DREAMWORK ❤️</i></small>
+Cape Town.
 
 </div>
-
-<br>
